@@ -1,0 +1,25 @@
+# Core
+python-dotenv==1.0.0
+pyyaml==6.0.2
+
+# LLM
+requests==2.31.0
+
+# Memory
+chromadb==0.4.24
+
+# TTS (Text-to-Speech)
+edge-tts==6.1.9
+gtts==2.5.0
+pyttsx3==2.90
+
+# Web Interface
+Flask==3.0.0
+flask-cors==4.0.0
+
+# CLI
+rich==13.7.0
+prompt-toolkit==3.0.43
+
+# Utilities
+colorama==0.4.6
