@@ -2,6 +2,10 @@
 
 Assistente pessoal de IA com memória persistente, síntese de voz e interface web. Projetado para rodar localmente usando Ollama como provedor de LLM.
 
+<p align="center">
+  <img src="animation.gif" alt="robodrive"/>
+</p>
+
 ## Funcionalidades
 
 - **IA conversacional** via Ollama (suporta Llama 3, DeepSeek, Qwen, etc.)
